@@ -21,7 +21,7 @@
   <a href="leandrosimeao@yahoo.com.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leandrosimeao@yahoo.com.br" /></a>
 
-  <a href="www.linkedin.com/in/leandro-simeao" alt="Linkedin">
+  <a href="http://www.linkedin.com/in/leandro-simeao" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/leandro-simeao" /></a>
 
   <a href="https://www.instagram.com/leandrof_simeao/" alt="Instagram">
