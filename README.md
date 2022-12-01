@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Leandro Simeão! Desenvolvedor <strong>Back-end</strong> na Capys IT Solutions.<br>
+  Olá, sou Leandro Simeão! Desenvolvedor <strong>Back-end</strong> na Brunsker.<br>
   Formado em Engenharia Mecânica e cursando pós graduação em Desenvolvimento Web Full Stack na PUC-MG.
 </p>
 
