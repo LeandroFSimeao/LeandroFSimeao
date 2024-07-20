@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá, sou Leandro Simeão! Desenvolvedor <strong>Back-end</strong> na Base2.<br>
-  Formado em Engenharia Mecânica e cursando pós graduação em Desenvolvimento Web Full Stack na PUC-MG.
+  Formado em Engenharia Mecânica e pós graduado em Desenvolvimento Web Full Stack na PUC-MG.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, JavaScript, Python, PHP</strong>
+  🦄 Linguagens: <strong>C#, JavaScript, Python</strong>
 </p>
 
 <p align="left">
